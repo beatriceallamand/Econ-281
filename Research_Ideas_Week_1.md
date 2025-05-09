@@ -17,7 +17,7 @@ Imagine a region is experiencing higher inflation than average, such that it's o
 is large, relative to the average region. After the fiscal stimulus spreads across the economy, monetary policy response to average inflation is still lower than the region's optimal policy
 before the shock, therefore, the relative response in terms of converging to target seems slower. Can a measure like this help account for the non-uniform exposition to monetary policy?
 
-Another measure of pre-existing deviations from average condition can be computed from the idea of slackness for fiscal policy, i.e. how steep the marginal cost curve is in each region. In some regions, there is slackness and a fiscal stimulus generates increase production without much cost increase, relative to tighter regions. That provides a distinct measure of ideal interest rate response across space that could help adress the research question. A related issue is briefly discussed in Chodorow-Reich (2019), when they cite forces like lower facto prices or congested labor markets in generating state-dependent multipliers.
+Another measure of pre-existing deviations from average condition can be computed from the idea of slackness for fiscal policy, i.e. how steep the marginal cost curve is in each region. In some regions, there is slackness and a fiscal stimulus generates increase production without much cost increase, relative to tighter regions. That provides a distinct measure of ideal interest rate response across space that could help adress the research question. A related issue is briefly discussed in Chodorow-Reich (2019), when they cite forces like lower factor prices or congested labor markets in generating state-dependent multipliers.
 
 # (2) Debt Payment and Credit Supply
 
