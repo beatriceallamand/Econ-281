@@ -15,7 +15,7 @@ Suppose the monetary authority chooses interest rates according to a Taylor rule
 Using the same policy rule, we could compute the optimal policy for each region. 
 Imagine a region is experiencing higher inflation than average, such that it's optimal policy rate is higher than the Monetary Union's one. For this region, the deviation from optimal policy
 is large, relative to the average region. After the fiscal stimulus spreads across the economy, monetary policy response to average inflation is still lower than the region's optimal policy
-before the shock, therefore, the relative response in terms of converging to target seems slower. Can a measure like this help account for the npn-uniform exposition to monetary policy?
+before the shock, therefore, the relative response in terms of converging to target seems slower. Can a measure like this help account for the non-uniform exposition to monetary policy?
 
 # (2) Debt Payment and Credit Supply
 
