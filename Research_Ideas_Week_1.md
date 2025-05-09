@@ -7,17 +7,17 @@
 
 # (1) Monetary Union and State-Dependance
 
-The cross-sectional or open economy relative multiplier provides a measure of the effect of fiscal stimulus, differencing out the -constant across space- response in monetary policy.
+Motivated by Chodorow-Reich (2019), Nakamura and Steinsson (2014) and Woodford (2011). The cross-sectional or open economy relative multiplier provides a measure of the effect of fiscal stimulus, differencing out the -constant across space- response in monetary policy.
 New work (Donaldson, -) has shed light on conditions under which the aggregate response would not be effectively differenced out with this procedure.
 
-I ask the question: Can pre-existing deviations from average conditions help inform the non-uniform exposition to -an otherwise constant across regions- monetary policy response?
+I ask the question: Can pre-existing deviations from average conditions help inform the non-uniform exposition to -an otherwise constant across regions- monetary policy response? 
 Suppose the monetary authority chooses interest rates according to a Taylor rule, observing employment-weighted deviations from inflation target and short run output in all regions.
 Using the same policy rule, we could compute the optimal policy for each region. 
 Imagine a region is experiencing higher inflation than average, such that it's optimal policy rate is higher than the Monetary Union's one. For this region, the deviation from optimal policy
 is large, relative to the average region. After the fiscal stimulus spreads across the economy, monetary policy response to average inflation is still lower than the region's optimal policy
 before the shock, therefore, the relative response in terms of converging to target seems slower. Can a measure like this help account for the non-uniform exposition to monetary policy?
 
-Another measure of pre-existing deviations from average condition can be computed from the idea of slackness for fiscal policy, i.e. how steep the marginal cost curve is in each region. In some regions, there is slackness and a fiscal stimulus generates increase production without much cost increase, relative less slack regions. That provides a distinct measure of ideal interest rate response across space that could help adress the research question.
+Another measure of pre-existing deviations from average condition can be computed from the idea of slackness for fiscal policy, i.e. how steep the marginal cost curve is in each region. In some regions, there is slackness and a fiscal stimulus generates increase production without much cost increase, relative less slack regions. That provides a distinct measure of ideal interest rate response across space that could help adress the research question. A related issue is briefly discussed in Chodorow-Reich (2019), when they cite forces like lower facto prices or congested labor markets in generating state-dependent multipliers.
 
 # (2) Debt Payment and Credit Supply
 
