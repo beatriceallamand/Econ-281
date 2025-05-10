@@ -19,6 +19,13 @@ before the shock, therefore, the relative response in terms of converging to tar
 
 Another measure of pre-existing deviations from average condition can be computed from the idea of slackness for fiscal policy, i.e. how steep the marginal cost curve is in each region. In some regions, there is slackness and a fiscal stimulus generates increase production without much cost increase, relative to tighter regions. That provides a distinct measure of ideal interest rate response across space that could help adress the research question. A related issue is briefly discussed in Chodorow-Reich (2019), when they cite forces like lower factor prices or congested labor markets in generating state-dependent multipliers.
 
+## Juan's thoughts.
+
+The second paragraph is very interesting and very clear. Maybe take a look at Boehm and Pandalai-Nayar "convex supply cost" paper. My paper with Malte and Noémie also estimates this local aggregate marginal cost curve at the local level.
+
+The first paragraph I understood it less. I don't understand the notion of optimality that you are thinking of. It seems that what you are saying does not occur in the NK model (since local output responses are linear in nominal interest rates)?
+
+
 # (2) Debt Payment and Credit Supply
 
 Motivated by Pinardon-Touati (2023). If local government borrowing crowds out local investment through capacity/credit supply constraints, should we expect shocks to debt payment increase credit supply for all interest rate levels?
@@ -40,6 +47,10 @@ Households surveys:
   of those who withdrew funds, use these resources for consumption, with the second most answered use being paying debts.
 
 - Encuesta Financiera de Hogares (EFH): account balances, real and financial assets (including bonds, stocks, ownership of private companies, housing, other real estate properties and vehicles)
+
+  ## Juan's thoughts.
+
+Great idea. Take a look at Balloch's JMP. Another instance of spillovers of financing. There Japanese firms that get access to the bond market cause banks to reallocate their lending somewhere else. What can you do quickly to see if you have some variation here to use?
   and debts (including mortgage, educational, auto, retail and consumer loans). Previous works report linking surveyed households to information of withdrawals through pairing significant statistics. 
 
 Administrative data: The Pensions Superintendency collected data on the social security affiliates’ withdrawals and pension balances.
