@@ -1,4 +1,4 @@
-Research Ideas - Week 3
+## Research Ideas - Week 3
 
 May 20, 2025
 
