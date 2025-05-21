@@ -2,7 +2,9 @@
 
 May 20, 2025
 
-"These ideas can be about how to extend the paper, how to test the paper, or how to apply the paper to a different context."
+------------------------------------------------------------------------------------------------------------------------------------
+    "These ideas can be about how to extend the paper, how to test the paper, or how to apply the paper to a different context."
+------------------------------------------------------------------------------------------------------------------------------------
 
 Comments:
 - The literature of financial frictions and misallocation is about moral hazard, not asymetric information!
