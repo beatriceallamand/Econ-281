@@ -41,6 +41,16 @@ Use lagged exposure × changes in national spending.
 Used in Nakamura & Steinsson (2014) for fiscal stimulus.
 Exclusion restriction: Federal money boosts employment, which boosts consumption — not consumption directly.
 
+📦 What is RIMS II?
+RIMS II provides Input-Output (I-O) multipliers at the county or multi-county level. These multipliers are based on the national I-O structure but adjusted to reflect the industrial composition of a specific region.
+
+🔧 What does it do?
+It lets you estimate how economic activity in one industry spills over into others within a region. This helps answer questions like:
+
+How much of industry output is consumed locally vs exported to other regions?
+What is the total economic impact (direct + indirect + induced) of a shock (like a plant opening)?
+How interdependent are local industries?
+
 ## Data
 I can see how differently consumption per state and employment per state have changed over the years
 
@@ -58,6 +68,7 @@ These approaches often use:
 BLS state-level employment, hours, and productivity
 Capital stock proxies from investment series
 Total factor productivity trends (TFP) by state (constructed)
+
 
 ## Other questions
 
