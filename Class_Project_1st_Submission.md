@@ -10,6 +10,7 @@ Are differences in consumption across space predictable by differences in output
 - Prices of consumption goods and interest rate of capital are such that the aggregate goods and capital markets clear
 - If a shock increases employment differentially across space, there is reasons to believe consumption also varies across space, but are the two related?
 - In a TANK model where one region has a higher share of HtM yes. An expansionary MP shock decreases interest rate so Ricardian agents consume more. This implies firms want to employ more workers, and since only Ricardian HH have elastic labor supply, wages increase for all workers by the amount predicted by the labor supply elasticity of Ricardian agents. The extra employment is 100% Ricardian agents, but all workers now recieve higher wage (including the HtM). The keynesian effect now comes, for Ricardian agents the increase in wage is temporal so they only consume a small fraction of it, but the HtM consume everything, so now firms want to produce more, again moving along the labor supply curve of Ricardians and increasing wages for everyone. Regions that had a higher fraction of HtM perceive a higher employment effect, but also a higher price effect (demand is higher so deviation from trend mc is higher). Inflation will respond differently in each region, the one with more HtM agents increases prices more, so some of its increase consumption will go to other regions. This implies other regions will receive a feedback into production -> mc -> prices too. Real wages and consumption increase in both regions, but more in the one with more HtM.
+- Now think about an increase in employment in one region. It will cause higher income in the region but also higher mc for firms, so prices will also go up. This implies consumers will consume more foreign goods, causing the foreing region to also move along its labor supply curve increasing marginal cost, increasing prices there too.
 - 
 
 ## Research Question
@@ -17,13 +18,14 @@ Are differences in consumption across space predictable by differences in output
 ## Answer
 
 
+Empirical strategies fail because I precisely want to show that employment and consumption are not 1 to 1. So that a shock to a location that increases employment will not only affect the region consumption through increased employment, also through increase employment in other locations, that demand goods from this region.
 
 ## Empirical strategy
 🔹 1. Bartik (Shift-Share) Instrument
 Idea: Use national industry-level employment growth, interacted with state pre-period industry shares.
 Exogenous component: National trends in industry 
 Heterogeneity: States differ in initial industry composition
-Exclusion restriction: Assumes national industry shocks don’t directly affect consumption other than through local employment.
+Exclusion restriction: Assumes national industry shocks don’t directly affect local consumption other than through local employment.
 
 📄 Used in:
 Bartik (1991)
