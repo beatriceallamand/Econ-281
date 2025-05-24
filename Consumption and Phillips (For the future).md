@@ -52,6 +52,8 @@ Exclusion restriction: Federal money boosts employment, which boosts consumption
 
 FAILS because of the same!
 
+What about using Input-Output linkages? Can I make a Bartik type instrument relating consumption across regions?
+
 📦 What is RIMS II?
 RIMS II provides Input-Output (I-O) multipliers at the county or multi-county level. These multipliers are based on the national I-O structure but adjusted to reflect the industrial composition of a specific region.
 
