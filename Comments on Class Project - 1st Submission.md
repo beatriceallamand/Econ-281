@@ -34,3 +34,9 @@ One assumption in your research design is that wages of workers of different age
 ## Bea: 
 I agree in general, the market for people in retirement age is not the same as those that are further from the threshold. Byt I think there are good reasons to beleive that the market of workers 64 + 364 days old is similar to those aged 64 + 365. So I believe the RD design controls for that.
 
+
+### For Friday's meeting
+
+I replied your questions here and we can discuss this answers.
+I will try to bring a sketch of model to help disentangle the treatment effect into wealth effects + other things.
+
