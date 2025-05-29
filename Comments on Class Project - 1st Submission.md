@@ -31,11 +31,11 @@ Wondering if you think I'm wrong.
 One assumption in your research design is that wages of workers of different ages does not move in response to the reform. That is a good assumption if the labor markets of elegibile workers are integrated. But what happens if they are segmented? If fewer people decide to participate in the labor market, would not the wage for these workers differentially change? And as a response, would not labor supply responses also contain information on the Frisch elasticity and not on wealth effects exclusively?
 
 ### Bea: 
-I agree in general, the market for people in retirement age is not the same as those that are further from the threshold. Byt I think there are good reasons to beleive that the market of workers 64 + 364 days old is similar to those aged 64 + 365. So I believe the RD design controls for that.
+I agree in general, the market for people in retirement age is not the same as those that are further from the threshold. But I think there are good reasons to believe that the market of workers 64 + 364 days old is similar to those aged 64 + 365. So I believe the RD design controls for that.
 
 
 # For Friday's meeting
 
-I replied your questions here and we can discuss this answers.
+I replied your questions here and we can discuss these answers.
 I will try to bring a sketch of model to help disentangle the treatment effect into wealth effects + other things.
 
