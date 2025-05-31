@@ -21,6 +21,9 @@ By contrast, if wages are more flexible downwards than upwards, after an expansi
 
 I propose to test this hypothesis empirically using Romer-Romer monetary shocks. I plan to estimate impulse responses of GDP, durable consumption, and proxies for lumpy durable spending such as car acquisition probability and household mobility. I will also estimate wage and employment responses—ideally disaggregated by durable vs. non-durable sectors—to evaluate the strength and asymmetry of the indirect channel. I aim to distinguish the effects of positive versus negative shocks to test for directional asymmetries in wage rigidity, and to compare high- versus low-interest-rate regimes to account for potential state dependence in monetary transmission.
 
+### Comment after submission:
+After the lecture I notice something about McKay and Wieland (2021) that worried me. They show how th IRF of consumption and GDP has the same shape as durables and pr of buying and shows this downturn after enough quarters, but they did not show the same figure for nondurables. What if the effect is also there? What if there is something occuring somewhere else that produces this inverted S shape and non-durable consumption is just following output/consumption and not the other way round?
+
 ## Idea 2: Micro Keynesian Jumps - Macro Ricardian Humps
 I wonder if we can also fit micro jumps and macro humps by a framework with investment convex + fix adjustment costs and labor-capital complementarities. 
 - Micro “jumps” are intertemporal MPCs: the micro responses of consumption to transitory income shocks.
