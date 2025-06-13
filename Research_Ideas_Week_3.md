@@ -19,6 +19,11 @@ capital available could make it optimal to invest into the technology where befo
 
 The next steps for this project would be to explore data that can microfound the main mechanism, to see the factibility of bulding this model. 
 
+## Juan's thoughts.
+
+I think this is really cool and I would be curious to know what standard models predict. In moral hazard models, the hedge against bad behavior is to take property of the collateral, but if the collateral is of uncertain quality, then maybe you get more credit rationing?
+This is cool, Regina had a similar idea.
+
 ## Idea 2: Finance Bros Bleed in Busts, Boomers in Booms?
 
 As I made evident on Thursday, I was actually enthusiastic about Kekre and Lenel (2021). I like how straightforward the argument is. Given an initial distribution of wealth and savings allocation, imagine 50%-50% of retirees (with risk aversion of 1) vs finance bros (with risk aversion of 0) are holding risky assets. Then the risk premium is proportional to the risk aversion of the average risk holder, i.e. 0.5. Now an expansionary monetary policy comes, increasing inflation, reducing the wealth of the retirees relative to the finance bros. Because of that, the representative risk holder is 90% finance bro, 10% retiree, so it has a risk aversion of 0.1. The risk premium must decrease proportionally. 
@@ -29,3 +34,10 @@ The first fact to document is that the return of holding capital increases after
 The second aspect we need to verify is that the wealth held in risk free or less risky assets decrease after a monetary expansion, and increase after a monetary contraction, and by how much. While the mechanism in the paper might be obvious (nominal debt -bonds- is denominated in monetary values so as inflation increases it devaluates), perhaps the effects are muted in equilibrium. An example of how this could happen is our monetary policy shocks affect inflation, but the responses are of smaller magnitude than the volatility implied by the business cycle or the aggregate monetary policy. It could also be the case that more elements are afecting the equilibrium object. Maybe the institutional investors in risk free assets already internalize the effect of monetary policy in a way that implies they diversify against the monetary policy rule and offer *real* risk free instruments to retirees. For instance, the bank that I had in Chile (Banco Santander) offered term deposits denominated in real terms. This are examples I can think off right now, but actually, I am not super concerned about proving this side of the story because we can always define the risk free asset as the nominal bond, and then their result is almost mechanic: as long as monetary policy is effective at affecting inflation, a contractionary monetary shock would appreciate nominally denominated wealth and an expansionary monetary shock would devaluate nominally denominated wealth.
 
 This is purely an empirical exploration to understand more about the relevance of the theoretical exercise.
+
+
+## Juan's thoughts.
+
+Hi Bea, this is cool if 1) no one has done it, 2) you can get a good idea of the budget set of these households by tracing their income streams. It seems like a very cool idea. Take a look at the Grigsby Walsh paper on inflationary shocks. My impression is that they try to do something similar at least in spirit, but I don't think they're going for the application of Kekre Lenel.
+
+Cool ideas!
